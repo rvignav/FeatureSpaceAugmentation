@@ -1,6 +1,4 @@
-# DataAugmentation
-
-Feature space data augmentation via deep learning.
+# Orientation-Preserving Feature Space Augmentation for Enhanced Neural Network Training
 
 Table of Contents
 =================
